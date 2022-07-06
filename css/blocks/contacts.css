@@ -54,7 +54,7 @@
 	width: 160px;
 	opacity: 0;
 	transition: opacity .5s;
-	right: -300px;
+	right: 0px;
 	margin-top: 9px;
 }
 
